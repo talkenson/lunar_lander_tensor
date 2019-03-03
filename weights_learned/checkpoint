@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/vitaly/PycharmProjects/rl_ll/weights_learned/model.ckpt"
+all_model_checkpoint_paths: "/home/vitaly/PycharmProjects/rl_ll/weights_learned/model.ckpt"
