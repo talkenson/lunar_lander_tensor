@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/vitaly/PycharmProjects/rl_ll/new_weights_3m_0754/model.ckpt"
+all_model_checkpoint_paths: "/home/vitaly/PycharmProjects/rl_ll/new_weights_3m_0754/model.ckpt"
